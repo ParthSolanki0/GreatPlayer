@@ -27,7 +27,7 @@ class BetterPlayerTranslations {
       this.overflowMenuSubtitles = "Subtitles",
       this.overflowMenuQuality = "Quality",
       this.overflowMenuAudioTracks = "Audio",
-      this.qualityAuto = "Auto"});
+      this.qualityAuto = "low"});
 
   factory BetterPlayerTranslations.polish() => BetterPlayerTranslations(
         languageCode: "pl",
